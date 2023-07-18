@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-07-17T13:58:27+02:00
-draft: true
+draft: false
 author: "Kamil"
 ---
 
