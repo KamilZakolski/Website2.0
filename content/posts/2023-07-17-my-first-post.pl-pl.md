@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2023-07-17T10:15:45+02:00
 title = "Mój pierwszy post"
 description = "Opis"
