@@ -2,7 +2,7 @@
 title = "Kamil Zakolski"
 theme = "hugo-coder"
 languageCode = "en"
-defaultContentLanguage = "pl-pl"
+defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
