@@ -13,11 +13,11 @@ noClasses = false
 
 [params]
 author = "Kamil Zakolski"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+#license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Kamil Zakolski's personal website"
 keywords = "blog,developer,personal"
 info = ["IT Specialist", "Student"]
-avatarURL = "avatar.jpg"
+avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2023
