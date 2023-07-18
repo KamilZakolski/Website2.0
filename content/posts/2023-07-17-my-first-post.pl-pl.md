@@ -1,8 +1,8 @@
 +++ 
 draft = true
-date = 2023-07-17T15:23:06+02:00
-title = "My First Post"
-description = "Description"
+date = 2023-07-17T10:15:45+02:00
+title = "Mój pierwszy post"
+description = "Opis"
 slug = ""
 authors = ["Kamil"]
 tags = ["tag"]
@@ -11,7 +11,7 @@ externalLink = ""
 series = ["series"]
 +++
 
-# Nothing to see here...
+# Nic tu po Tobie...
 
 ## 🧸🔫
 
