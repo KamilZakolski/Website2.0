@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2023-07-17T10:15:45+02:00
+date = 2020-01-01T10:15:45+02:00
 title = "Mój pierwszy post"
 description = "Opis"
 slug = ""
