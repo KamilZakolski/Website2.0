@@ -152,25 +152,26 @@ name = "Hardware"
 weight = 3
 url = "hardware/"
 
-[languages.pl-pl]
+[languages.pl]
 languageName = ":poland:"
 
-[languages.pl-pl.params]
+[languages.pl.params]
 info = ["Specjalista IT", "Student"]
 description = "Prywatna strona Kamila Zakolskiego"
 keywords = "blog,developer,personal"
+dateFormat = "2 January, 2006"
 
-[[languages.pl-pl.menu.main]]
+[[languages.pl.menu.main]]
 name = "O Mnie"
 weight = 1
 url = "about/"
 
-[[languages.pl-pl.menu.main]]
+[[languages.pl.menu.main]]
 name = "Blog"
 weight = 2
 url = "posts/"
 
-[[languages.pl-pl.menu.main]]
+[[languages.pl.menu.main]]
 name = "Sprzęt"
 weight = 3
 url = "hardware/"

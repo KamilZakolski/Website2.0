@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kamil Zakolski</title>
+    <link>/pl/</link>
+    <description>Recent content on Kamil Zakolski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Sun, 01 Mar 2020 12:57:43 +0200</lastBuildDate><atom:link href="/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprzęt</title>
+      <link>/pl/hardware/</link>
+      <pubDate>Mon, 17 Jul 2023 15:32:46 +0200</pubDate>
+      
+      <guid>/pl/hardware/</guid>
+      <description>Tutaj pojawi się lista mojego sprzętu komputerowego&amp;hellip; wkrótce.</description>
+    </item>
+    
+    <item>
+      <title>O mnie</title>
+      <link>/pl/about/</link>
+      <pubDate>Mon, 17 Jul 2023 13:58:27 +0200</pubDate>
+      
+      <guid>/pl/about/</guid>
+      <description>Miło Cię widzieć! Nazywam się Kamil Zakolski i jestem z Polski. Obecnie pracuje w przemyśle obronnym dla NFM Group w dziale IT. Poza pracą studiuje też Informatykę na Uniwersytecie Merito.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Ignite: The Tour 2020</title>
+      <link>/pl/posts/2020-03-01-microsoft-ignite/</link>
+      <pubDate>Sun, 01 Mar 2020 12:57:43 +0200</pubDate>
+      
+      <guid>/pl/posts/2020-03-01-microsoft-ignite/</guid>
+      <description>Praga 🍻Link to headingPraga
+Microsoft IgniteLink to headingWiększość prowadzących używało Mac&amp;rsquo;a Pierwszy raz pokazali Windows Terminal w akcji Azure, Azure i jeszcze raz chmura Dostałem koszulkę!</description>
+    </item>
+    
+    <item>
+      <title>Mój pierwszy post</title>
+      <link>/pl/posts/2020-01-01-my-first-post/</link>
+      <pubDate>Wed, 01 Jan 2020 10:15:45 +0200</pubDate>
+      
+      <guid>/pl/posts/2020-01-01-my-first-post/</guid>
+      <description>Nic tu po Tobie&amp;hellip;Link to heading🧸🔫Link to heading</description>
+    </item>
+    
+  </channel>
+</rss>

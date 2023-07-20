@@ -2,11 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/</loc>
+    <loc>/hardware/</loc>
+    <lastmod>2023-07-17T15:32:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-pl"
-                href="/pl-pl/authors/"
+                hreflang="pl"
+                href="/pl/hardware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/hardware/"
+                />
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2023-07-17T13:58:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -15,10 +42,11 @@
                 />
   </url><url>
     <loc>/categories/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-pl"
-                href="/pl-pl/categories/"
+                hreflang="pl"
+                href="/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -26,11 +54,38 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>/categories/category/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-pl"
-                href="/pl-pl/"
+                hreflang="pl"
+                href="/pl/categories/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/category/"
+                />
+  </url><url>
+    <loc>/authors/kamil/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/authors/kamil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/kamil/"
+                />
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,11 +93,51 @@
                 href="/"
                 />
   </url><url>
-    <loc>/series/</loc>
+    <loc>/posts/2020-01-01-my-first-post/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-pl"
-                href="/pl-pl/series/"
+                hreflang="pl"
+                href="/pl/posts/2020-01-01-my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/2020-01-01-my-first-post/"
+                />
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+  </url><url>
+    <loc>/series/series/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/series/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/series/series/"
+                />
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -50,11 +145,25 @@
                 href="/series/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/tags/tag/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl-pl"
-                href="/pl-pl/tags/"
+                hreflang="pl"
+                href="/pl/tags/tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/tag/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-01T15:23:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
