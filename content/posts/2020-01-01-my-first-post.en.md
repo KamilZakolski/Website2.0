@@ -1,8 +1,8 @@
 +++ 
 draft = false
-date = 2020-01-01T10:15:45+02:00
-title = "Mój pierwszy post"
-description = "Opis"
+date = 2020-01-01T15:23:06+02:00
+title = "My First Post"
+description = "Description"
 slug = ""
 authors = ["Kamil"]
 tags = ["tag"]
@@ -11,7 +11,7 @@ externalLink = ""
 series = ["series"]
 +++
 
-# Nic tu po Tobie...
+# Nothing to see here...
 
 ## 🧸🔫
 

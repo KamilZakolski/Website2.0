@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "O mnie"
 date: 2023-07-17T13:58:27+02:00
 draft: false
 ---
 
-Pleased to meet you! My name is Kamil Zakolski and I'm from Poland. Currently working in defence industry for [NFM Group](https://nfm.no/) as an IT staff member. Alongside my work I study Computer Science at [Merito University](https://www.merito.pl/english/).
+Miło Cię widzieć! Nazywam się Kamil Zakolski i jestem z Polski. Obecnie pracuje w przemyśle obronnym dla [NFM Group](https://nfm.no/) w dziale IT. Poza pracą studiuje też Informatykę na [Uniwersytecie Merito](https://www.merito.pl).
