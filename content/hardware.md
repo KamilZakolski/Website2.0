@@ -11,6 +11,7 @@ draft: false
 - **RAM:** GOODRAM 16 GB x 2 @3600Mhz
 - **Dysk 1:** M.2 NVMe Samsung 970 1 TB
 - **Dysk 2:** 2,5" SSD GOODRAM CX400 1 TB
+- **Płyta główna:** MSI B450M
 - **Zasilacz:** NZXT C850 80 Plus Gold
 - **Obudowa:** Fractal Design Focus 2
 {{< /tab >}}
@@ -25,8 +26,8 @@ draft: false
 {{< tab name="Peryferia" >}}
 - **Monitor:** Dell U2721DE
 - **Klawiatura:** Nuphy Air75
-  - **Przełączniki:** Gateron Low-profile, Brown
 - **Mysz:** Keychron M3
+- **Słuchawki:** Cooler Master MH751
 
 {{< /tab >}}
 {{< /tabgroup >}}
