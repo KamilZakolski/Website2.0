@@ -33,5 +33,5 @@ draft: false
 {{< /tabgroup >}}
 
 {{< notice info >}}
-\* **SoC** z ang. System on a Chip, to taki układ scalony który zawiera w sobie kompletny system elektroniczny, w tym CPU i GPU.
+\* **SoC** z ang. System on a Chip, to taki układ scalony, który zawiera w sobie kompletny system elektroniczny, w tym CPU i GPU.
 {{< /notice >}}
