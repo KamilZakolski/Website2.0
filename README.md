@@ -1,5 +1,5 @@
 # My personal website and blog
 
-Build using [Hugo framework](https://gohugo.io/) and [Coder theme](https://github.com/luizdepra/hugo-coder).
+Build using [Hugo](https://gohugo.io/) framework and [Coder](https://github.com/luizdepra/hugo-coder) theme.
 
 Hosted on [GithubPages](https://pages.github.com/)
