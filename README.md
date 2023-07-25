@@ -2,4 +2,4 @@
 
 Build using [Hugo](https://gohugo.io/) framework and [Coder](https://github.com/luizdepra/hugo-coder) theme.
 
-Hosted on [GithubPages](https://pages.github.com/)
+Hosted on [Github Pages](https://pages.github.com/)
