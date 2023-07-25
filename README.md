@@ -1,4 +1,4 @@
-# My personal website and blog
+# My personal website
 
 Build using [Hugo](https://gohugo.io/) framework and [Coder](https://github.com/luizdepra/hugo-coder) theme.
 
