@@ -2,182 +2,168 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pl/hardware/</loc>
+    <loc>/hardware/</loc>
     <lastmod>2023-07-17T15:32:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hardware/"
+                href="/en/hardware/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/hardware/"
+                href="/hardware/"
                 />
   </url><url>
-    <loc>/pl/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2023-07-17T13:58:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="/about/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/about/"
-                />
   </url><url>
-    <loc>/pl/authors/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-03-01T12:57:43+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/authors/"
-                />
-  </url><url>
-    <loc>/pl/categories/</loc>
-    <lastmod>2020-03-01T12:57:43+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/categories/"
-                />
   </url><url>
-    <loc>/pl/authors/kamil/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-01T12:57:43+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/kamil/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/authors/kamil/"
-                />
-  </url><url>
-    <loc>/pl/</loc>
-    <lastmod>2020-03-01T12:57:43+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/"
-                />
   </url><url>
-    <loc>/pl/categories/microsoft/</loc>
+    <loc>/categories/microsoft/</loc>
     <lastmod>2020-03-01T12:57:43+02:00</lastmod>
   </url><url>
-    <loc>/pl/posts/2020-03-01-microsoft-ignite/</loc>
+    <loc>/posts/2020-03-01-microsoft-ignite/</loc>
     <lastmod>2020-03-01T12:57:43+02:00</lastmod>
   </url><url>
-    <loc>/pl/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-03-01T12:57:43+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/posts/"
-                />
   </url><url>
-    <loc>/pl/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-03-01T12:57:43+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/tags/"
-                />
   </url><url>
-    <loc>/pl/tags/wydarzenia/</loc>
+    <loc>/tags/wydarzenia/</loc>
     <lastmod>2020-03-01T12:57:43+02:00</lastmod>
   </url><url>
-    <loc>/pl/categories/category/</loc>
+    <loc>/categories/category/</loc>
     <lastmod>2020-01-01T10:15:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/categories/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="/categories/category/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/categories/category/"
-                />
   </url><url>
-    <loc>/pl/posts/2020-01-01-my-first-post/</loc>
+    <loc>/posts/2020-01-01-my-first-post/</loc>
     <lastmod>2020-01-01T10:15:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/posts/2020-01-01-my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="/posts/2020-01-01-my-first-post/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/posts/2020-01-01-my-first-post/"
-                />
   </url><url>
-    <loc>/pl/series/series/</loc>
+    <loc>/series/series/</loc>
     <lastmod>2020-01-01T10:15:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/series/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="/series/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/series/series/"
-                />
   </url><url>
-    <loc>/pl/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2020-01-01T10:15:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
                 href="/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/pl/series/"
-                />
   </url><url>
-    <loc>/pl/tags/tag/</loc>
+    <loc>/tags/tag/</loc>
     <lastmod>2020-01-01T10:15:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/tag/"
+                href="/en/tags/tag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/pl/tags/tag/"
+                href="/tags/tag/"
+                />
+  </url><url>
+    <loc>/courses/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/courses/"
                 />
   </url>
 </urlset>

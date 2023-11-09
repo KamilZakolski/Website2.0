@@ -6,12 +6,12 @@ draft: false
 
 ### MD-101 Managing Modern Desktop
 
-{{< figure src="/images/placeholder.jpg" alt="Mac" caption="Dyplom" >}}
+{{< figure src="/images/placeholder.jpg" alt="Mac" caption="Certificate: MD-101 Managing Modern Desktop" >}}
 
 ### Automating Administration with Windows PowerShell
 
-{{< figure src="/images/placeholder.jpg" alt="Mac" caption="Dyplom" >}}
+{{< figure src="/images/placeholder.jpg" alt="Mac" caption="Certificate: Automating Administration with Windows PowerShell" >}}
 
 ### Microsoft Windows Sever 2016
 
-{{< figure src="/images/placeholder.jpg" alt="Mac" caption="Dyplom" >}}
+{{< figure src="/images/placeholder.jpg" alt="Mac" caption="Certificate: Microsoft Windows Sever 2016" >}}

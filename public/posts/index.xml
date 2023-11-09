@@ -5,16 +5,23 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Kamil Zakolski</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2020 15:23:06 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl</language>
+    <lastBuildDate>Sun, 01 Mar 2020 12:57:43 +0200</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/posts/2020-01-01-my-first-post/</link>
-      <pubDate>Wed, 01 Jan 2020 15:23:06 +0200</pubDate>
-      
-      <guid>/posts/2020-01-01-my-first-post/</guid>
-      <description>Nothing to see here&amp;hellip;Link to heading🧸🔫Link to heading</description>
+      <title>Microsoft Ignite: The Tour 2020</title>
+      <link>/posts/2020-03-01-microsoft-ignite/</link>
+      <pubDate>Sun, 01 Mar 2020 12:57:43 +0200</pubDate>
+      <guid>/posts/2020-03-01-microsoft-ignite/</guid>
+      <description>Praga 🍻 Link to heading Praga
+Microsoft Ignite Link to heading Większość prowadzących używało Mac&amp;rsquo;a Pierwszy raz pokazali Windows Terminal w akcji Azure, Azure i jeszcze raz chmura Dostałem koszulkę!</description>
     </item>
-    
+    <item>
+      <title>Mój pierwszy post</title>
+      <link>/posts/2020-01-01-my-first-post/</link>
+      <pubDate>Wed, 01 Jan 2020 10:15:45 +0200</pubDate>
+      <guid>/posts/2020-01-01-my-first-post/</guid>
+      <description> Nic tu po Tobie&amp;hellip; Link to heading 🧸🔫 Link to heading </description>
+    </item>
   </channel>
 </rss>
