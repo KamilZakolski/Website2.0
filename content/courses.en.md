@@ -12,6 +12,6 @@ draft: false
 
 {{< figure src="/images/cert-pwsh.jpg" alt="PowerShell" caption="Certificate: Automating Administration with Windows PowerShell" >}}
 
-### Microsoft Windows Sever 2016
+### Microsoft Windows Server 2016
 
 {{< figure src="/images/cert-ws2016.jpg" alt="Windows Server" caption="Certificate: Microsoft Windows Server 2016" >}}
