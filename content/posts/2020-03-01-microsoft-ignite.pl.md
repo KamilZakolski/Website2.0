@@ -5,8 +5,8 @@ title = "Microsoft Ignite: The Tour 2020"
 description = ""
 slug = ""
 authors = ["Kamil"]
-tags = ["wydarzenia"]
-categories = ["Microsoft"]
+tags = ["conference","microsoft","trip"]
+categories = ["Wydarzenie"]
 externalLink = ""
 series = []
 +++
