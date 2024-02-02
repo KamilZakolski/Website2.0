@@ -5,20 +5,22 @@ title = "Microsoft Ignite: The Tour 2020"
 description = ""
 slug = ""
 authors = ["Kamil"]
-tags = ["wydarzenia"]
+tags = ["events"]
 categories = ["Microsoft"]
 externalLink = ""
 series = []
 +++
 
-# Praga 🍻
+# Microsoft Ignite 🔥
 
-{{< figure src="/images/ms-ignite-prague.jpg" alt="prague" caption="Praga" >}}
+{{< figure src="/images/blog/ms-ignite-flags.jpg" alt="flags" caption="Microsoft Ignite: The Tour 2020, Prague, Czech Republic" >}}
 
-# Microsoft Ignite
+* Most presenters used a Mac.
+* They showcased Windows Terminal in action.
+* They joked that no one can figure out how to close VIM, not gonna lie, I forgot too. [^1]
+* Apparently, they open-sourced MS-DOS two years ago!
+* Azure, Azure, and cloud once again.
 
-* Większość prowadzących używało Mac'a
-* Pierwszy raz pokazali Windows Terminal w akcji
-* Azure, Azure i jeszcze raz chmura
+{{< figure src="/images/blog/ms-ignite-shirt.jpg" alt="shirt" caption="I got a T-shirt!" >}}
 
-{{< figure src="/images/ms-ignite-shirt.jpg" alt="shirt" caption="Dostałem koszulkę!" >}}
+[^1]: To close VIM: press `Esc` to switch to command mode. Type `:wq` to save your progress or `:q!` to quit without saving.

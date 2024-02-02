@@ -1,21 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>wydarzenia on Kamil Zakolski</title>
-    <link>/pl/tags/wydarzenia/</link>
-    <description>Recent content in wydarzenia on Kamil Zakolski</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pl</language>
-    <lastBuildDate>Sun, 01 Mar 2020 12:57:43 +0200</lastBuildDate><atom:link href="/pl/tags/wydarzenia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Microsoft Ignite: The Tour 2020</title>
-      <link>/pl/posts/2020-03-01-microsoft-ignite/</link>
-      <pubDate>Sun, 01 Mar 2020 12:57:43 +0200</pubDate>
-      
-      <guid>/pl/posts/2020-03-01-microsoft-ignite/</guid>
-      <description>Praga 🍻Link to headingPraga
-Microsoft IgniteLink to headingWiększość prowadzących używało Mac&amp;rsquo;a Pierwszy raz pokazali Windows Terminal w akcji Azure, Azure i jeszcze raz chmura Dostałem koszulkę!</description>
-    </item>
-    
-  </channel>
-</rss>

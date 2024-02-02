@@ -1,18 +1,10 @@
-title = "Kamil Zakolski"
-
-theme = "hugo-coder"
-
-defaultContentLanguage = "pl"
-languageCode = "pl"
-#defaultContentLanguageInSubdir = true
-
+baseURL = "http://www.zakolski.com"
+defaultContentLanguage = "en"
 enableEmoji = true
+languageCode = "en"
 paginate = 20
-
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
+theme = "hugo-coder"
+title = "Kamil Zakolski"
 
 [markup.highlight]
 noClasses = false
@@ -20,24 +12,29 @@ noClasses = false
 [params]
 author = "Kamil Zakolski"
 avatarURL = "images/avatar.jpg"
-dateFormat = "2 January, 2006"
-description = "Prywatna strona Kamila Zakolskiego"
-info = ["Specjalista IT", "Student"]
-keywords = "blog,developer,personal"
-since = 2020
-
-# Specify light/dark colorscheme
-# Supported values:
-# "auto" (use preference set by browser)
-# "dark" (dark background, light foreground)
-# "light" (light background, dark foreground) (default)
 colorScheme = "auto"
-
-# Hide the toggle button, along with the associated vertical divider
+dateFormat = "2 January, 2006"
+description = "Kamil Zakolski's personal website"
 hideColorSchemeToggle = false
-
-# Series see also post count
+info = ["IT Specialist", "Student"]
+keywords = "blog,developer,personal"
 maxSeeAlsoItems = 5
+rtl = false
+since = 2020
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
+# Custom remote JS files
+customRemoteJS = []
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
 
 [[params.social]]
 icon = "fa fa-2x fa-github"
@@ -51,37 +48,8 @@ name = "LinkedIn"
 url = "https://www.linkedin.com/in/kamilzakolski/"
 weight = 2
 
-[languages.pl]
-languageName = ":poland:"
-
-[[languages.pl.menu.main]]
-name = "O Mnie"
-url = "about/"
-weight = 1
-
-[[languages.pl.menu.main]]
-name = "Blog"
-url = "posts/"
-weight = 2
-
-[[languages.pl.menu.main]]
-name = "Kursy"
-url = "courses/"
-weight = 2
-
-[[languages.pl.menu.main]]
-name = "Sprzęt"
-url = "hardware/"
-weight = 3
-
 [languages.en]
-languageName = ":gb:"
-
-[languages.en.params]
-dateFormat = "January 2, 2006"
-description = "Kamil Zakolski's personal website"
-info = ["IT Specialist", "Student"]
-keywords = "blog,developer,personal"
+languageName = ":uk:"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -94,11 +62,39 @@ url = "posts/"
 weight = 2
 
 [[languages.en.menu.main]]
-name = "Courses"
-url = "courses/"
-weight = 2
+name = "Certificates"
+url = "cert/"
+weight = 3
 
 [[languages.en.menu.main]]
 name = "Hardware"
 url = "hardware/"
+weight = 4
+
+[languages.pl]
+languageName = ":poland:"
+
+[languages.pl.params]
+description = "Prywatna strona Kamila Zakolskiego"
+info = ["Specjalista IT", "Student"]
+keywords = "blog,deweloper,osobisty"
+
+[[languages.pl.menu.main]]
+name = "O Mnie"
+url = "about/"
+weight = 1
+
+[[languages.pl.menu.main]]
+name = "Blog"
+url = "posts/"
+weight = 2
+
+[[languages.pl.menu.main]]
+name = "Certyfikaty"
+url = "cert/"
 weight = 3
+
+[[languages.pl.menu.main]]
+name = "Sprzęt"
+url = "hardware/"
+weight = 4

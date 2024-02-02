@@ -1,5 +1,5 @@
 +++
-title = 'Hardware'
+title = 'Sprzęt'
 date = 2023-07-17T15:32:46+02:00
 draft = false
 +++
@@ -11,28 +11,28 @@ draft = false
 - **CPU:** AMD Ryzen 7 5800X3D
 - **GPU:** Nvidia GeForce RTX 3080 Ti
 - **RAM:** GOODRAM 16 GB x 2 @3600Mhz
-- **Drive 1:** M.2 NVMe Samsung 970 1 TB
-- **Drive 2:** 2,5" SSD GOODRAM CX400 1 TB
-- **Motherboard:** MSI B450M
-- **PSU:** NZXT C850 80 Plus Gold
-- **Case:** Fractal Design Focus 2
+- **Dysk 1:** M.2 NVMe Samsung 970 1 TB
+- **Dysk 2:** 2,5" SSD GOODRAM CX400 1 TB
+- **Płyta Główna:** MSI B450M
+- **Zasilacz:** NZXT C850 80 Plus Gold
+- **Obudowa:** Fractal Design Focus 2
 {{< /tab >}}
 
 {{< tab name="MacBook" >}}
 - **Model:** Air 2020
 - **SoC:** M1
 - **RAM:** 8 GB
-- **Drive:** 256 GB
+- **Dysk:** 256 GB
 {{< /tab >}}
 
-{{< tab name="Peripherals" >}}
+{{< tab name="Peryferia" >}}
 - **Monitor:** Gigabyte M28U
-- **Keyboard:** Nuphy Air75
-- **Mouse:** Keychron M3
-- **Headphones:** Cooler Master MH751
+- **Klawiatura:** Nuphy Air75
+- **Mysz:** Keychron M3
+- **Słuchawki:** Cooler Master MH751
 {{< /tab >}}
 
-{{< tab name="Consoles" >}}
+{{< tab name="Konsole" >}}
 - **Nintendo:** Game Boy Advance
 - **Nintendo:** Switch Oled
 {{< /tab >}}

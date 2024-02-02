@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kamil on Kamil Zakolski</title>
-    <link>/authors/kamil/</link>
-    <description>Recent content in Kamil on Kamil Zakolski</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2020 15:23:06 +0200</lastBuildDate><atom:link href="/authors/kamil/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>/posts/2020-01-01-my-first-post/</link>
-      <pubDate>Wed, 01 Jan 2020 15:23:06 +0200</pubDate>
-      
-      <guid>/posts/2020-01-01-my-first-post/</guid>
-      <description>Nothing to see here&amp;hellip;Link to heading🧸🔫Link to heading</description>
-    </item>
-    
-  </channel>
-</rss>

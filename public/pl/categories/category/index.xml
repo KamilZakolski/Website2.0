@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>category on Kamil Zakolski</title>
-    <link>/pl/categories/category/</link>
-    <description>Recent content in category on Kamil Zakolski</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pl</language>
-    <lastBuildDate>Wed, 01 Jan 2020 10:15:45 +0200</lastBuildDate><atom:link href="/pl/categories/category/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mój pierwszy post</title>
-      <link>/pl/posts/2020-01-01-my-first-post/</link>
-      <pubDate>Wed, 01 Jan 2020 10:15:45 +0200</pubDate>
-      
-      <guid>/pl/posts/2020-01-01-my-first-post/</guid>
-      <description>Nic tu po Tobie&amp;hellip;Link to heading🧸🔫Link to heading</description>
-    </item>
-    
-  </channel>
-</rss>
