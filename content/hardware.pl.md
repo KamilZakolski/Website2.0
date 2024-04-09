@@ -4,7 +4,9 @@ date = 2023-07-17T15:32:46+02:00
 draft = false
 +++
 
-[//]: # {{< figure src="/images/placeholder.jpg" alt="Placeholder" caption="Placeholder" >}}
+<!---
+{{< figure src="/images/placeholder.jpg" alt="Placeholder" caption="Placeholder" >}}
+-->
 
 {{< tabgroup >}}
 {{< tab name="PC" >}}
