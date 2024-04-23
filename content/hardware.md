@@ -29,7 +29,7 @@ draft = false
 
 {{< tab name="Peripherals" >}}
 - **Monitor:** Gigabyte M28U
-- **Keyboard:** Nuphy Air75
+- **Keyboard:** Keychron K1 Max
 - **Mouse:** Keychron M3
 - **Headphones:** Cooler Master MH751
 {{< /tab >}}
