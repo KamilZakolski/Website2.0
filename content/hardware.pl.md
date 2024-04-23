@@ -29,7 +29,7 @@ draft = false
 
 {{< tab name="Peryferia" >}}
 - **Monitor:** Gigabyte M28U
-- **Klawiatura:** Nuphy Air75
+- **Klawiatura:** Keychron K1 Max
 - **Mysz:** Keychron M3
 - **Słuchawki:** Cooler Master MH751
 {{< /tab >}}
