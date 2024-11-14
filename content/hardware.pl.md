@@ -12,7 +12,7 @@ draft = false
 {{< tab name="PC" >}}
 - **CPU:** AMD Ryzen 7 5800X3D
 - **GPU:** Nvidia GeForce RTX 3080 Ti
-- **RAM:** GOODRAM 4 x 8GB @3600Mhz
+- **RAM:** GOODRAM 4 x 8 GB @3600Mhz
 - **Dysk 1:** M.2 NVMe Samsung 970 1 TB
 - **Dysk 2:** M.2 NVMe Lexar NM790 4 TB
 - **Dysk 3:** 2,5" SSD GOODRAM CX400 1 TB
